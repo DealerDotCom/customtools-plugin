@@ -33,7 +33,7 @@ public class ToolVersionHelper {
                 ExtendedChoiceParameterDefinition.PARAMETER_TYPE_TEXT_BOX,
                 "default", null, null,
                 "default", null, null, 
-                false, 1, "Default version stub"
+                false, 1, "Default version stub", ","
                 );
     }
     
